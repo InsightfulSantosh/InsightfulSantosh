@@ -17,7 +17,7 @@
 💡 **Specialized in:** ML, DL, NLP, Computer Vision, Generative AI, and MLOps  
 ⚡ **Building AI-powered solutions & handling large language models (LLMs)**  
 💻 **Experience with AWS Cloud:** EC2, S3, RDS, IAM, ECR, SageMaker, CodePipeline  
-📊 **Handling structured & unstructured data using MySQL, MongoDB, and RDS**  
+📊 **Handling structured & unstructured data using MySQL, MongoDB, RDS, and ChromaDB**  
 🎯 **Passionate about AI, scalable ML pipelines, and cloud deployments**  
 
 ---
@@ -47,9 +47,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git" height="40">&nbsp;
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white" alt="DVC">
   <img src="https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
 </p>
 
 ### **🧠 Generative AI & LLMs**  
@@ -61,7 +62,8 @@
 
 ### **📊 Databases & Cloud**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,Chromadb,aws," height="40">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws,gcp,azure" height="40">
+  <img src="https://img.shields.io/badge/ChromaDB-009688?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB">
 </p>
 
 ---
@@ -90,6 +92,9 @@
   </a>
   <a href="https://github.com/InsightfulSantosh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.hackerrank.com/profile/studenteearya" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
 </p>
 
