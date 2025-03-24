@@ -20,7 +20,7 @@ jobs:
           outputs: dist/github-snake.svg, dist/github-snake.gif
 
       - name: Upload Snake Artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # ✅ Updated version
         with:
           name: snake-artifact
           path: dist/github-snake.svg
