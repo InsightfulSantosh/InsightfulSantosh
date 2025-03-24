@@ -64,7 +64,7 @@
 ### **📊 Databases & Cloud**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws" height="40">
-  <img src="https://img.shields.io/badge/ChromaDB-009688?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/ChromaDB_logo.png" alt="ChromaDB" height="40">
 </p>
 
 ---
