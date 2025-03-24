@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋, I'm Santosh</h2>
+<h1 align="center"><b>Hey 👋, I'm Santosh</b></h1>
 
 <p align="center">
   🚀 Data Scientist | AI/ML Engineer | MLOps | Generative AI Specialist  
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
 ### **📂 MLOps & DevOps**  
@@ -62,7 +63,7 @@
 
 ### **📊 Databases & Cloud**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws,gcp,azure" height="40">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws" height="40">
   <img src="https://img.shields.io/badge/ChromaDB-009688?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB">
 </p>
 
