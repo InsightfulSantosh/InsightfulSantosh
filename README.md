@@ -4,9 +4,14 @@
   🚀 Data Scientist | AI/ML Engineer | Generative AI Specialist  
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=InsightfulSantosh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
+  <img src="https://img.shields.io/github/followers/InsightfulSantosh?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
 ---
 
-### 🚀 About Me
+## 🚀 About Me  
 
 🔭 **Currently working as a Data Scientist Engineer**  
 💡 **Specialized in:** Python, Java, C/C++, SQL, ML, DL, NLP, Computer Vision, Generative AI, and Big Data  
@@ -17,42 +22,56 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools  
 
-#### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### **Programming Languages & Frameworks**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch" />
+</p>
 
-#### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### **Databases**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
 
-#### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### **Cloud & DevOps**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
+</p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
+</p>
+
 ---
 
-### 🌎 Connect with Me
+## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InsightfulSantosh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/santosh-964917183" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:studenteearya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/InsightfulSantosh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
 🔥 **Thanks for visiting my profile!** 🚀✨
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</p>
