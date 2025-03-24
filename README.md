@@ -64,7 +64,7 @@
 ### **📊 Databases & Cloud**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws" height="40">
-  <img src="YOUR_IMAGE_URL_HERE" alt="ChromaDB" height="40">
+  <img src="[YOUR_IMAGE_URL_HERE](https://github.com/InsightfulSantosh/InsightfulSantosh/blob/main/1_d2XUNgrLw7687CDfXx9-Dw.png)" alt="ChromaDB" height="40">
 </p>
 
 ---
