@@ -1,28 +1,41 @@
-<h1 align="center">Hey 👋, I'm Santosh</h1>
+<h1 align="center">🚀 InsightfulSantosh | AI & MLOps Enthusiast</h1>
 
 <p align="center">
-  🚀 Data Scientist | AI/ML Engineer | MLOps | Generative AI Specialist  
+  <b>Data Scientist | AI/ML Engineer | MLOps | Generative AI Specialist</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=InsightfulSantosh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
+  <img src="https://komarev.com/ghpvc/?username=InsightfulSantosh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/InsightfulSantosh?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🛠️ **Tech Stack & Expertise**  
 
-🔭 **Currently working as a Data Scientist Engineer**  
-💡 **Specialized in:** ML, DL, NLP, Computer Vision, Generative AI, and MLOps  
-⚡ **Building AI-powered solutions & handling large language models (LLMs)**  
-💻 **Experience with AWS Cloud:** EC2, S3, RDS, IAM, ECR, SageMaker, CodePipeline  
-📊 **Handling structured & unstructured data using MySQL, MongoDB, and RDS**  
-🎯 **Passionate about AI, scalable ML pipelines, and cloud deployments**  
+### **🔹 Core AI & ML Technologies**  
+- **Machine Learning & Deep Learning**: TensorFlow, PyTorch, Scikit-learn  
+- **NLP & Generative AI**: Transformers, LangChain, LLMs, RAG, PEFT (LoRA, QLoRA)  
+- **Computer Vision**: OpenCV, YOLO, Hugging Face Models  
+
+### **🔹 MLOps & Cloud AI**  
+- **ML Pipelines**: DVC, MLflow, Kubeflow  
+- **CI/CD & Automation**: GitHub Actions, Docker, Kubernetes  
+- **Cloud & Storage**: AWS (EC2, S3, RDS, SageMaker, IAM, Lambda), GCP, Azure  
+
+### **🔹 Data Engineering & Databases**  
+- **SQL & NoSQL**: MySQL, PostgreSQL, MongoDB  
+- **Big Data & Pipelines**: Spark, Kafka, Airflow  
+- **Vector Databases**: FAISS, Pinecone, Weaviate  
 
 ---
 
-## 🏆 Certifications  
+## 🎯 **Certifications & Achievements**  
+
+- **HackerRank SQL Certification**  
+- **HackerRank Python Certification**  
+- AWS Certified Machine Learning – Specialty *(In Progress)*  
+- Published multiple AI/ML projects & research articles  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL">
@@ -31,46 +44,31 @@
 
 ---
 
-## ⚙️ Skill Set  
+## 📈 **GitHub Statistics & Activity**  
 
-### **👨‍💻 Programming & AI Frameworks**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
 
-### **📂 MLOps & DevOps**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white" alt="DVC">
-  <img src="https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
-</p>
-
-### **🧠 Generative AI & LLMs**  
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-</p>
-
-### **📊 Databases & Cloud**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=github-dark" alt="GitHub Activity Graph">
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 🚀 **Featured Projects**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=radical" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
-</p>
+| Project | Description | Tech Stack |
+|---------|------------|------------|
+| 🏆 **[ATS Resume Parsing](https://github.com/InsightfulSantosh/ATS-Resume-Parser)** | AI-driven resume parser for recruitment automation | Python, Spacy, FastAPI, MongoDB |
+| 🎯 **[MLOps Pipeline](https://github.com/InsightfulSantosh/MLOps-Pipeline)** | End-to-end ML pipeline with CI/CD, Model Registry | MLflow, DVC, GitHub Actions, Docker |
+| 🔍 **[Semantic Search Engine](https://github.com/InsightfulSantosh/Semantic-Search)** | RAG-based search engine with vector embeddings | FAISS, LangChain, OpenAI API |
+| 🤖 **[Tweet Sentiment Analysis](https://github.com/InsightfulSantosh/Tweet-Sentiment-Analysis)** | NLP-based sentiment classification on Twitter data | PyTorch, Hugging Face, DVC |
 
 ---
 
-## 📫 Connect with Me  
+## 📬 **Connect with Me**  
 
 <p align="center">
   <a href="https://linkedin.com/in/santosh-964917183" target="_blank">
@@ -86,8 +84,4 @@
 
 ---
 
-🔥 **Thanks for visiting my profile!** 🚀✨  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-</p>
+🔥 **Thanks for visiting my profile! Let's innovate together. 🚀**  
