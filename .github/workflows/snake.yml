@@ -18,7 +18,7 @@ jobs:
         uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Shahrukh2016
+          github_user_name: InsightfulSantosh
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Uploads the generated snake file
