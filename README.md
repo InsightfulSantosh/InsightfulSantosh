@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Santosh</h1>
 
 <p align="center">
-  🚀 Data Scientist | AI/ML Engineer | Generative AI Specialist  
+  🚀 Data Scientist | AI/ML Engineer | MLOps | Generative AI Specialist  
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 ## 🚀 About Me  
 
 🔭 **Currently working as a Data Scientist Engineer**  
-💡 **Specialized in:** Python, Java, C/C++, SQL, ML, DL, NLP, Computer Vision, Generative AI, and Big Data  
-⚡ **Building AI-powered solutions & handling large language models**  
+💡 **Specialized in:** ML, DL, NLP, Computer Vision, Generative AI, and MLOps  
+⚡ **Building AI-powered solutions & handling large language models (LLMs)**  
 💻 **Experience with AWS Cloud:** EC2, S3, RDS, IAM, ECR, SageMaker, CodePipeline  
 📊 **Handling structured & unstructured data using MySQL, MongoDB, and RDS**  
-🎯 **Passionate about AI, MLOps, and Cloud AI solutions**  
+🎯 **Passionate about AI, scalable ML pipelines, and cloud deployments**  
 
 ---
 
@@ -31,21 +31,28 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## ⚙️ Skill Set  
 
-### **Programming Languages & Frameworks**  
+### **👨‍💻 Programming & AI Frameworks**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-### **Databases**  
+### **📂 MLOps & DevOps**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white" alt="DVC">
+  <img src="https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
 </p>
 
-### **Cloud & DevOps**  
+### **🧠 Generative AI & LLMs**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
+  <img src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+</p>
+
+### **📊 Databases & Cloud**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws" />
 </p>
 
 ---
@@ -79,7 +86,7 @@
 
 ---
 
-🔥 **Thanks for visiting my profile!** 🚀✨
+🔥 **Thanks for visiting my profile!** 🚀✨  
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
