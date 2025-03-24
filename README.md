@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hey <img width="45" src="waving_hand.gif"> Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjit-Singh-786&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjit-Singh-786" /> </p>
+# Hey <img width="45" src="waving_hand.gif"> Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=InsightfulSantosh&label=Profile%20views&color=0e75b6&style=flat" alt="InsightfulSantosh" /> </p>
 
 <img src="banner.png" alt="git"> 
 
