@@ -31,29 +31,38 @@
 
 ---
 
-## ⚙️ Skill Set  
+
+### **⚙️ Skill Set**  
 
 ### **👨‍💻 Programming & AI Frameworks**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit,fastapi,flask" />
 </p>
 
 ### **📂 MLOps & DevOps**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,githubactions,jenkins" />
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white" alt="DVC">
   <img src="https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
 </p>
 
 ### **🧠 Generative AI & LLMs**  
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/HuggingFace-FFDD67?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
 </p>
 
 ### **📊 Databases & Cloud**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws,gcp,azure" />
 </p>
+
+---
+
+
+This makes your profile more **comprehensive and attractive** for **MLOps, AI/ML, and DevOps roles**! 🚀 Let me know if you want any further tweaks! 😃
 
 ---
 
