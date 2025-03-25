@@ -79,8 +79,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="51%">
 </p>
 
-<p  align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=github-dark" alt="GitHub Activity Graph" width="51%">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=github-dark" alt="GitHub Activity Graph">
 </p>
 ---
 
