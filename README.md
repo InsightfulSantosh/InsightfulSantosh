@@ -10,6 +10,9 @@
 </p>
 
 ---
+![Turning Data Into Dollars](https://raw.githubusercontent.com/InsightfulSantosh/InsightfulSantosh/refs/heads/main/DALL%C2%B7E%202025-03-25%2006.18.13%20-%20A%20futuristic%2C%20high-tech%20banner%20with%20the%20theme%20'Turning%20Data%20Into%20Dollars'.%20The%20background%20should%20feature%20digital%20graphs%2C%20AI%20neural%20networks%2C%20and%20glowi.webp)
+
+---
 
 ## 🚀 About Me  
 
