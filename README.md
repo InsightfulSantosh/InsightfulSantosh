@@ -105,9 +105,3 @@
 
 🐍 Contribution Snake  
 ![GitHub Snake](https://raw.githubusercontent.com/InsightfulSantosh/InsightfulSantosh/refs/heads/output/github-contribution-grid-snake.svg)
-
------
-
-
-
-
