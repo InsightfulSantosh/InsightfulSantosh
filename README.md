@@ -63,10 +63,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws" height="40">
-  <img src="https://github.com/InsightfulSantosh/InsightfulSantosh/blob/main/1_d2XUNgrLw7687CDfXx9-Dw.png" alt="ChromaDB" height="40">
-</p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws" height="20" width ="40">
+ 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A86B?style=for-the-badge&logo=chromadb&logoColor=white)
 
 
