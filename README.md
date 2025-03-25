@@ -74,11 +74,12 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="51%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+<p  align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=github-dark" alt="GitHub Activity Graph" width="51%">
 </p>
 ---
