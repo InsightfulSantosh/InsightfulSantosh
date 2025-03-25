@@ -64,14 +64,7 @@
 ---
  
 
-## 🏆 Certifications  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL">
-  <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python">
-</p>
-
--------
 
 ## 📊 GitHub Stats & Activity  
 
@@ -86,8 +79,18 @@
 
 ### **📊 Most Used Languages**  
 
-<p >
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=compact&theme=tokyonight" alt="Top Languages"  width="50%">
+</p>
+
+
+-------
+
+## 🏆 Certifications  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL">
+  <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python">
 </p>
 
 
