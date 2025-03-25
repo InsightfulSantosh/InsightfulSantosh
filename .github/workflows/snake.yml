@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3  # Updated version
+        uses: actions/checkout@v3  # Ensures the repo is available
 
       # Generates the snake
       - name: Generate Snake Animation
@@ -23,14 +23,14 @@ jobs:
 
       # Uploads the generated snake file
       - name: Upload Snake SVG
-        uses: actions/upload-artifact@v3  # Updated version
+        uses: actions/upload-artifact@v4  # FIXED: Updated to v4
         with:
           name: snake-gif
           path: dist/github-contribution-grid-snake.svg
 
       # Deploy the snake animation to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3  # Updated version
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
