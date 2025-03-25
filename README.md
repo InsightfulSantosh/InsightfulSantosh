@@ -21,13 +21,11 @@
  **Handling structured & unstructured data using MySQL, MongoDB, RDS, and ChromaDB**  
  **Passionate about AI, scalable ML pipelines, and cloud deployments**  
 
-
-
 ---
 
-## ⚙️ Skill Set  
+##  Skill Set  
 
-### **👨‍💻 Programming & AI Frameworks**  
+### **Programming & AI Frameworks**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40">&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
@@ -38,7 +36,7 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
-### **📂 MLOps & DevOps**  
+### **MLOps & DevOps**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git" height="40">&nbsp;
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
@@ -46,23 +44,20 @@
   <img src="https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
 </p>
 
-### **🧠 Generative AI & LLMs**  
+### **Generative AI & LLMs**  
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/HuggingFace-FFDD67?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
 </p>
 
-### **📊 Databases & Cloud**  
+### **Databases & Cloud**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws" height="40">
   <img src="https://github.com/InsightfulSantosh/InsightfulSantosh/blob/main/1_d2XUNgrLw7687CDfXx9-Dw.png" alt="ChromaDB" height="40">
 </p>
 
 ---
-
-
-## 📊 GitHub Stats & Activity  
 
 <p >
 <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" width="50%">  
@@ -79,7 +74,7 @@
 
 -------
 
-## 🏆 Certifications  
+##  **Certifications**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL">
@@ -89,7 +84,7 @@
 
 -------------
 
-## 📫 Connect with Me  
+## **Connect with Me**  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/insightfulsantosh/" target="_blank">
