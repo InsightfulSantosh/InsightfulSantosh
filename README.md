@@ -25,8 +25,8 @@
 
 ##  Skill Set  
 
-### **Programming & AI Frameworks**  
-## 🚀 Tech Stack
+-----------
+### **Programming & AI Frameworks:**  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -42,8 +42,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-FF7F0E?style=for-the-badge&logo=statsmodels&logoColor=white)
 
+---------
 
-### **MLOps & DevOps**  
+### **MLOps & DevOps:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -52,20 +53,20 @@
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white)
 
-
-### **Generative AI & LLMs**  
+ ------ 
+### **Generative AI & LLMs:**  
 ![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDD67?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### **Databases & Cloud**  
+--------
+### **Databases & Cloud:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
- <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="75" height="40" /> 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A86B?style=for-the-badge&logo=chromadb&logoColor=white)
-
+ <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="75" height="40" /> 
 
 ---
 
