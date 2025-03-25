@@ -44,25 +44,28 @@
 
 
 ### **MLOps & DevOps**  
-<p align="left">
-img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git" height="40">&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white)
-</p>
+
 
 ### **Generative AI & LLMs**  
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/HuggingFace-FFDD67?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDD67?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### **Databases & Cloud**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws" height="40">
-  <img src="https://github.com/InsightfulSantosh/InsightfulSantosh/blob/main/1_d2XUNgrLw7687CDfXx9-Dw.png" alt="ChromaDB" height="40">
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00A86B?style=for-the-badge&logo=chromadb&logoColor=white)
+
 
 ---
 
