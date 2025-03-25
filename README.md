@@ -21,15 +21,7 @@
  **Handling structured & unstructured data using MySQL, MongoDB, RDS, and ChromaDB**  
  **Passionate about AI, scalable ML pipelines, and cloud deployments**  
 
----
- 
 
-## 🏆 Certifications  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL">
-  <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python">
-</p>
 
 ---
 
@@ -69,20 +61,33 @@
 
 ---
 
+---
+ 
+
+## 🏆 Certifications  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL">
+  <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python">
+</p>
+
+-------
+
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="51%">
+<img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" width="50%">  
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%">
+</p>
 ---
 
 ### **📊 Most Used Languages**  
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=compact&theme=tokyonight" alt="Top Languages"  width="50%">
 </p>
 
 
