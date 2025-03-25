@@ -87,7 +87,7 @@
 
 ### **📊 Most Used Languages**  
 <p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=theme=tokyonight&langs_count=6" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=tokyonight&langs_count=6" alt="Top Languages">
 </p>
 
 
