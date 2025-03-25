@@ -11,24 +11,14 @@
 
 ---
 
-
 ## About Me  
 
 Data Scientist with expertise in **Machine Learning, Deep Learning, NLP, and Generative AI**. Experienced in **building scalable AI solutions, handling large datasets, and deploying models in production**.  
 
 ### 💼 Experience  
-- **AI Engineer** – SAG Pvt. Ltd., Jaipur  
-- **Former Data Scientist Engineer** – Upflairs.com Pvt. Ltd., Jaipur  
+- **AI Engineer** – Techsaga Corporations , Noida  
+- **Former Data Analyst - Fraud & Risk** – Paytm Payments Bank, Noida  
 
-### ⚡ Skills  
-- **Programming:** Python, SQL  
-- **AI & ML:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI  
-- **Cloud & DevOps:** AWS (EC2, S3, RDS, SageMaker, IAM, ECR, CodePipeline)  
-- **Databases:** MySQL, MongoDB  
-
-Passionate about **LLMs, AI research, and real-world AI applications**.  
-
--------
 
 ### **Programming & AI Frameworks:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -96,7 +86,6 @@ Passionate about **LLMs, AI research, and real-world AI applications**.
 
 
 ##  **Certifications**
-
 <p align="left">
   <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL">
   <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python">
@@ -105,7 +94,6 @@ Passionate about **LLMs, AI research, and real-world AI applications**.
 
 
 ## **Connect with Me**  
-
 <p align="left">
   <a href="https://www.linkedin.com/in/insightfulsantosh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
