@@ -61,25 +61,18 @@
 
 ---
 
----
- 
-
-
 
 ## 📊 GitHub Stats & Activity  
 
-<p align="center">
+<p >
 <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" width="50%">  
 </p>
 
-<p align="center">
+<p >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%">
 </p>
----
 
-### **📊 Most Used Languages**  
-
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=compact&theme=tokyonight" alt="Top Languages"  width="50%">
 </p>
 
