@@ -82,7 +82,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=github-dark" alt="GitHub Activity Graph">
 </p>
+
 ---
+
+### **📊 Most Used Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages">
+</p>
+
+-------------
 
 ## 📫 Connect with Me  
 
