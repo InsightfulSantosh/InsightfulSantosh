@@ -42,7 +42,7 @@ Data Scientist with expertise in **Machine Learning, Deep Learning, NLP, and Gen
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Statsmodels-FF7F0E?style=for-the-badge&logo=statsmodels&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white">
-   ![Transformers](https://img.shields.io/badge/Transformers-FF7F0E?style=for-the-badge&logo=huggingface&logoColor=white)
+  <img src="https://img.shields.io/badge/Transformers-FF7F0E?style=for-the-badge&logo=huggingface&logoColor=white">
   <img src="https://img.shields.io/badge/HuggingFace-FFDD67?style=for-the-badge&logo=huggingface&logoColor=black">
 </p>
 
