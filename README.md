@@ -14,16 +14,23 @@
 
 ## About Me  
 
- **Currently working as a Data Scientist Engineer**  
- **Specialized in:** ML, DL, NLP, Computer Vision, Generative AI, and MLOps  
- **Building AI-powered solutions & handling large language models (LLMs)**  
- **Experience with AWS Cloud:** EC2, S3, RDS, IAM, ECR, SageMaker, CodePipeline  
- **Handling structured & unstructured data using MySQL, MongoDB, RDS, and ChromaDB**  
- **Passionate about AI, scalable ML pipelines, and cloud deployments**  
+Data Scientist with expertise in **Machine Learning, Deep Learning, NLP, and Generative AI**. Experienced in **building scalable AI solutions, handling large datasets, and deploying models in production**.  
 
+### 💼 Experience  
+- **AI Engineer** – SAG Pvt. Ltd., Jaipur  
+- **Former Data Scientist Engineer** – Upflairs.com Pvt. Ltd., Jaipur  
+
+### ⚡ Skills  
+- **Programming:** Python, SQL  
+- **AI & ML:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI  
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, SageMaker, IAM, ECR, CodePipeline)  
+- **Databases:** MySQL, MongoDB  
+
+Passionate about **LLMs, AI research, and real-world AI applications**.  
+
+-------
 
 ### **Programming & AI Frameworks:**  
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -38,7 +45,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-FF7F0E?style=for-the-badge&logo=statsmodels&logoColor=white)
-
 
 
 ### **MLOps & DevOps:**  
@@ -57,10 +63,17 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDD67?style=for-the-badge&logo=huggingface&logoColor=black)
 
 
-### **Databases & Cloud:**  
+### **Amazon Web Services (AWS):**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ECR](https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-146EBE?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="75" height="35" /> 
 
+### **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
