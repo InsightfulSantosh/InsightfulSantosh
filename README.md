@@ -80,14 +80,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=github-dark" >
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=github-dark" alt="GitHub Activity Graph">
 </p>
 
 ---
 
 ### **📊 Most Used Languages**  
 <p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=theme=tokyonight&langs_count=6" alt="Top Languages">
 </p>
 
 
