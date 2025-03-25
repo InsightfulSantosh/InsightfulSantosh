@@ -76,7 +76,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="48%">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="51%">
 </p>
 
 <p align="center">
