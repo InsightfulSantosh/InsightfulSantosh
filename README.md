@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hey 👋, I'm Santosh</b></h1>
 
 <p align="center">
-  🚀 <b>Data Scientist | AI/ML Engineer | MLOps | Generative AI Specialist</b> 
+   <b>Data Scientist | AI/ML Engineer | MLOps | Generative AI Specialist</b> 
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 ---
 
 
-## 🚀 About Me  
+## About Me  
 
-🔭 **Currently working as a Data Scientist Engineer**  
-💡 **Specialized in:** ML, DL, NLP, Computer Vision, Generative AI, and MLOps  
-⚡ **Building AI-powered solutions & handling large language models (LLMs)**  
-💻 **Experience with AWS Cloud:** EC2, S3, RDS, IAM, ECR, SageMaker, CodePipeline  
-📊 **Handling structured & unstructured data using MySQL, MongoDB, RDS, and ChromaDB**  
-🎯 **Passionate about AI, scalable ML pipelines, and cloud deployments**  
+ **Currently working as a Data Scientist Engineer**  
+ **Specialized in:** ML, DL, NLP, Computer Vision, Generative AI, and MLOps  
+ **Building AI-powered solutions & handling large language models (LLMs)**  
+ **Experience with AWS Cloud:** EC2, S3, RDS, IAM, ECR, SageMaker, CodePipeline  
+ **Handling structured & unstructured data using MySQL, MongoDB, RDS, and ChromaDB**  
+ **Passionate about AI, scalable ML pipelines, and cloud deployments**  
 
 ---
  
@@ -75,10 +75,6 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="51%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=github-dark" alt="GitHub Activity Graph">
 </p>
 
 ---
