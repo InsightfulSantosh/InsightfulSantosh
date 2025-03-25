@@ -64,7 +64,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws" height="20" width ="40">
+<img src="https://skillicons.dev/icons?i=aws" height="20" width ="40">
  
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A86B?style=for-the-badge&logo=chromadb&logoColor=white)
 
