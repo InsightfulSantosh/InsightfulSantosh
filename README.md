@@ -21,6 +21,14 @@
 🎯 **Passionate about AI, scalable ML pipelines, and cloud deployments**  
 
 ---
+### 🎖 GitHub Achievements  
+
+![GitHub Arctic Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?style=for-the-badge)  
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%E2%AD%90-blue?style=for-the-badge)  
+![Starstruck](https://img.shields.io/badge/Starstruck-%E2%AD%90%E2%AD%90%E2%AD%90-yellow?style=for-the-badge)
+ 
+ ---
+ 
 
 ## 🏆 Certifications  
 
