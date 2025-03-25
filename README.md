@@ -21,11 +21,7 @@
  **Handling structured & unstructured data using MySQL, MongoDB, RDS, and ChromaDB**  
  **Passionate about AI, scalable ML pipelines, and cloud deployments**  
 
----
 
-##  Skill Set  
-
------------
 ### **Programming & AI Frameworks:**  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,7 +38,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-FF7F0E?style=for-the-badge&logo=statsmodels&logoColor=white)
 
----------
+
 
 ### **MLOps & DevOps:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -53,13 +49,13 @@
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white)
 
- ------ 
+
 ### **Generative AI & LLMs:**  
 ![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDD67?style=for-the-badge&logo=huggingface&logoColor=black)
 
---------
+
 ### **Databases & Cloud:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,7 +64,6 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A86B?style=for-the-badge&logo=chromadb&logoColor=white)
  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="75" height="40" /> 
 
----
 
 <p >
 <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" width="50%">  
@@ -83,21 +78,19 @@
 </p>
 
 
--------
 
 ##  **Certifications**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL">
   <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python">
 </p>
 
 
--------------
 
 ## **Connect with Me**  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/insightfulsantosh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -111,6 +104,4 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
 </p>
-
------
 
