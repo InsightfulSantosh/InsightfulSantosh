@@ -107,8 +107,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </p>
 ---
+
 🐍 Contribution Snake  
-![GitHub Snake](https://raw.githubusercontent.com/InsightfulSantosh/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/InsightfulSantosh/InsightfulSantosh/refs/heads/output/github-contribution-grid-snake.svg)
+
 
 
 
