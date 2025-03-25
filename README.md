@@ -63,7 +63,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
- <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="70" height="35" /> 
+ <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="75" height="40" /> 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A86B?style=for-the-badge&logo=chromadb&logoColor=white)
 
 
