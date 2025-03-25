@@ -85,7 +85,7 @@
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="linkedin.com/in/insightfulsantosh" target="_blank">
+  <a href="https://www.linkedin.com/in/insightfulsantosh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:studenteearya@gmail.com" target="_blank">
@@ -99,14 +99,16 @@
   </a>
 </p>
 
----
+
+-----
 
 🔥 **Thanks for visiting my profile!** 🚀✨  
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </p>
----
+
+-----
 
 🐍 Contribution Snake  
 ![GitHub Snake](https://raw.githubusercontent.com/InsightfulSantosh/InsightfulSantosh/refs/heads/output/github-contribution-grid-snake.svg)
