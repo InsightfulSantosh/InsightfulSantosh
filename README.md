@@ -69,7 +69,7 @@ Data Scientist with expertise in **Machine Learning, Deep Learning, NLP, and Gen
 
 ### IDEs & Development Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-F4D03F?style=for-the-badge&logo=pycharm&logoColor=black">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/JupyterNotebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
