@@ -92,7 +92,9 @@ Data Scientist with expertise in **Machine Learning, Deep Learning, NLP, and Gen
 <img src="https://github-readme-stats.vercel.app/api?username=InsightfulSantosh&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" width="50%">  
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&cache_seconds=3600)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&cache_seconds=3600" alt="GitHub Streak" width="50%">
+</p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=compact&theme=tokyonight" alt="Top Languages"  width="50%">
