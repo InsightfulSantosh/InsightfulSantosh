@@ -93,7 +93,7 @@ Data Scientist with expertise in **Machine Learning, Deep Learning, NLP, and Gen
 </p>
 
 <p >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&cache_seconds=3600" alt="GitHub Streak" width="50%">
 </p>
 
 <p>
