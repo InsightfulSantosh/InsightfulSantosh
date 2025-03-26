@@ -56,15 +56,7 @@ Data Scientist with expertise in **Machine Learning, Deep Learning, NLP, and Gen
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
+
 
 ### **AWS & Cloud:**  
 <p align="left">
@@ -74,7 +66,7 @@ Data Scientist with expertise in **Machine Learning, Deep Learning, NLP, and Gen
   <img src="https://img.shields.io/badge/EC2-F58536?style=for-the-badge&logo=amazon-ec2&logoColor=white">
   <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-  <img src="https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/SageMaker-146EBE?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
 ### IDEs & Development Tools:
