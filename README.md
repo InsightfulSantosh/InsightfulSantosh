@@ -121,8 +121,10 @@ Data Scientist with expertise in **Machine Learning, Deep Learning, NLP, and Gen
   <a href="https://github.com/InsightfulSantosh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.hackerrank.com/profile/studenteearya" target="_blank">
+  <a href="https://www.hackerrank.com/profile/ByteSantosh" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
 </p>
+
+
 
