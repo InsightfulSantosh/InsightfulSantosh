@@ -112,9 +112,9 @@ I'm a Data Scientist specializing in **Machine Learning, Deep Learning, NLP, and
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightfulSantosh&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
-| Top Languages | Activity Graph |
-|---------------|----------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=8) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=tokyo-night&hide_border=true) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InsightfulSantosh&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=InsightfulSantosh&theme=tokyo-night&hide_border=true)
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=InsightfulSantosh&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
